@@ -1,0 +1,20 @@
+{
+    "name": "ivanpuzatkin/cautious-octo-adventure",
+    "type": "library",
+    "description": "My first composer package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Puzatkin",
+            "email": "puzatkin1998@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Octopus\\": "src/"
+        }
+    }
+}
