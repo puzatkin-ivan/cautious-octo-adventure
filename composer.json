@@ -1,7 +1,8 @@
 {
     "name": "ivanpuzatkin/cautious-octo-adventure",
-    "type": "library",
     "description": "My first composer package",
+    "type": "library",
+    "version": "1.0.0",
     "license": "MIT",
     "authors": [
         {
