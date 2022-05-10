@@ -16,7 +16,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Octopus\\": "src/"
+            "Octopus\\": "src/",
+            "Adventure\\": ""
         }
     }
 }
