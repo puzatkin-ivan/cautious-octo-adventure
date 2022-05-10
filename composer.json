@@ -3,7 +3,7 @@
     "type": "library",
     "description": "My first composer package",
     "keywords": ["log","logging"],
-    "homepage": "https://github.com/Seldaek/monolog",
+    "homepage": "https://github.com/puzatkin-ivan/cautious-octo-adventure",
     "license": "MIT",
     "authors": [
         {
